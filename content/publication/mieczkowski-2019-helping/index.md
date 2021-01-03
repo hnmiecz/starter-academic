@@ -34,7 +34,7 @@ projects: []
 publishDate: '2021-01-03T00:46:59.099153Z'
 publication_types:
 - '1'
-abstract: 'This paper examines relationships between perceptions of warmth and competence, emotional responses, and behavioral tendencies in the context of social robots. Participants answered questions about these three aspects of impression formation after viewing an image of one of 342 social robots in the Stanford Social Robots Database. Results suggest that people have similar emotional and behavioral reactions to robots as they have to humans; impressions of the robots' warmth and competence predicted specific emotional responses (admiration, envy, contempt, pity) and those emotional responses predicted distinct behavioral tendencies (active facilitation, active harm, passive facilitation, passive harm).'
+abstract: 'This paper examines relationships between perceptions of warmth and competence, emotional responses, and behavioral tendencies in the context of social robots. Participants answered questions about these three aspects of impression formation after viewing an image of one of 342 social robots in the Stanford Social Robots Database. Results suggest that people have similar emotional and behavioral reactions to robots as they have to humans; impressions of the robots' warmth and competence predicted specific emotional responses - admiration, envy, contempt, pity - and those emotional responses predicted distinct behavioral tendencies - active facilitation, active harm, passive facilitation, passive harm.'
 publication: '*2019 14th ACM/IEEE International Conference on Human-Robot Interaction
   (HRI)*'
 ---
