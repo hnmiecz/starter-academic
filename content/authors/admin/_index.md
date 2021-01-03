@@ -32,7 +32,7 @@ education:
   - course: MA in Communication
     institution: Stanford University
     year: 2020
-  - course: BA in Psychology, BA in Linguistics
+  - course: BA in Psychology & BA in Linguistics
     institution: Stony Brook University
     year: 2017
 
