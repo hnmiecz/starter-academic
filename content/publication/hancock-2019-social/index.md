@@ -3,7 +3,7 @@
 
 title: 'Social media use and psychological well-being: a meta-analysis'
 subtitle: ''
-summary: ''
+summary: 'Through a meta-analysis of 226 articles, we investigate the relationship between social media use and six types of well-being.'
 authors:
 - Jeffrey T Hancock
 - Sunny Xun Liu
