@@ -4,7 +4,7 @@
 title: 'Measurement Discrepancies Between Logged and Self-Reported Digital Media Use:
   A Systematic Review and Meta-Analysis'
 subtitle: ''
-summary: ''
+summary: 'Through a meta-analysis, we investigate the relationship between self-reported and device-logged media use.'
 authors:
 - Douglas A Parry
 - Brittany I Davidson
