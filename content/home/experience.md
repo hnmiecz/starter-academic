@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Stanford, CA"
   date_start = "2017-09-15"
-  date_end = ""
+  date_end = "2022-06-15"
   description = """
   * Managed multiple projects, working with senior scholars and mentoring undergraduate research assistants
   * Led teams of researchers in research question development, data collection and analysis, and publication
