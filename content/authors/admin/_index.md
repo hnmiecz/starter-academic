@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in how social technologies impact impression formation and conversational dynamics. 
+bio: I study how social technologies impact the way we think about and talk to each other using survey-based, experimental and text analysis methods. 
 
 interests:
 - Dyadic and Group Dynamics
@@ -55,6 +55,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/83mux
 - icon: cv
   icon_pack: ai
   link: media/CV.pdf
@@ -72,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Communication at Stanford University studying media psychology. My research interests include dyadic and group dynamics, social cognition, linguistic and conversational analyses in the area of human-machine communication, as well as the conceptualization and measurement of digital media use.
+I am a PhD Candidate in Communication at Stanford University studying media psychology. My research interests include dyadic and group dynamics, social cognition, linguistic and conversational analyses in the area of human-machine communication, with a focus on AI. I am also interested in the conceptualization and measurement of digital media use.
