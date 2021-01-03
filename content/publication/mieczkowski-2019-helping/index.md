@@ -4,7 +4,7 @@
 title: 'Helping not hurting: applying the stereotype content model and bias map to
   social robotics'
 subtitle: ''
-summary: ''
+summary: 'We examine relationships between perceptions of warmth and competence, emotional responses, and behavioral tendencies in the context of social robots.'
 authors:
 - Hannah Mieczkowski
 - Sunny Xun Liu
