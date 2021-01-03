@@ -6,7 +6,7 @@ title: Hannah Mieczkowski
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Communication
 
 # Organizations/Affiliations
 organizations:
@@ -14,24 +14,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in how social technologies impact impression formation and conversational dynamics. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Dyadic and Group Dynamics
+- Social Cognition
+- Linguistic and Conversational Analyses
+- Human Machine Communication
+- AI Ethics
+- Social Media and Well-being
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Communication
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2022
+  - course: MA in Communication
+    institution: Stanford University
+    year: 2020
+  - course: BA in Psychology, BA in Linguistics
+    institution: Stony Brook University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +46,18 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/hnmiecz
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=73XFcZIAAAAJ&hl=en
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD Candidate in Communication at Stanford University studying media psychology. My research interests include dyadic and group dynamics, social cognition, linguistic and conversational analyses in the area of human-machine communication, as well as the conceptualization and measurement of digital media use.
