@@ -3,7 +3,7 @@
 
 title: 'Helping not hurting: applying the stereotype content model and bias map to
   social robotics'
-subtitle: 'We find evidence to suggest that people have similar emotional and behavioral reactions to robots as they have to humans, using the SCM and BIAS map.'
+subtitle: 'We find evidence to suggest that people have similar emotional and behavioral reactions to robots as they have to humans.'
 summary: ''
 authors:
 - Hannah Mieczkowski
