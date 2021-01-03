@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hnmiecz
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hmieczkowski
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=73XFcZIAAAAJ&hl=en
@@ -75,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Communication at Stanford University studying media psychology. My research interests include dyadic and group dynamics, social cognition, linguistic and conversational analyses in the area of human-machine communication, with a focus on AI. I am also interested in the conceptualization and measurement of digital media use.
+I am a PhD Candidate in Communication at Stanford University studying media psychology. I use survey-based, experimental and text analysis methods to investigate dyadic and group dynamics, social cognition, and language use in the area of human-machine communication, with a focus on AI. I am also interested in the conceptualization and measurement of digital media use.
