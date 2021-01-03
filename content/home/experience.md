@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Doctoral Researcher"
   company = "Social Media Lab, Stanford University"
-  company_url = "https://sml.stanford.edu/"
+  company_url = ""
   location = "Stanford, CA"
   date_start = "2017-09-15"
   date_end = ""
@@ -44,6 +44,31 @@ date_format = "Jan 2006"
   * Collaborated with a team of designers, engineers, content strategists and product managers to provide solution-focused insights
   * Presented research findings to interdisciplinary stakeholders through long-form and short-form reports
   * Synthesized internal and external research in a literature review with recommendations for product changes
+  """
+  
+[[experience]]
+  title = "UX Researcher"
+  company = "PRO Unlimited @ Facebook"
+  company_url = ""
+  location = "Menlo Park, CA"
+  date_start = "2019-06-15"
+  date_end = "2020-06-19"
+  description = """
+   * Designed and performed cognitive testing on survey questions to measure sentiment towards Groups products
+   * Analyzed behavioral and survey data to assess metrics regarding meaningful communities and continued use intentions.
+   * Coded open-ended survey responses to examine textual correlates with positive and negative product experiences.
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "PRO Unlimited @ Facebook"
+  company_url = ""
+  location = "Menlo Park, CA"
+  date_start = "2018-07-01"
+  date_end = "2018-11-22"
+  description = """
+   * Conducted large-scale literature reviews on motivations and consequences of using social media, as well as differences in perceptions of well-being across cultures.
+   * Synthesized findings in two reviews of these topics and presented work and product recommendations to relevant stakeholders.
   """
 
 +++
