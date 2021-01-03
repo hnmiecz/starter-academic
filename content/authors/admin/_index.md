@@ -17,12 +17,11 @@ organizations:
 bio: I study how social technologies impact the way we think about and talk to each other using survey-based, experimental and text analysis methods. 
 
 interests:
-- Dyadic and Group Dynamics
-- Social Cognition
-- Linguistic and Conversational Analyses
+- Artificial Intelligence in Social Life
 - Human Machine Communication
-- AI Ethics
-- Social Media and Well-being
+- Language Production and Comprehension
+- Interpersonal Perception
+- Relationships between Social Media and Well-being
 
 education:
   courses:
