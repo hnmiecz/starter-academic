@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Doctoral Researcher"
+  company = "Social Media Lab, Stanford University"
+  company_url = "https://sml.stanford.edu/"
+  location = "Stanford, CA"
+  date_start = "2017-09-15"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Managed multiple projects, working with senior scholars and mentoring undergraduate research assistants
+  * Led teams of researchers in research question development, data collection and analysis, and publication
+  * Presented research to interdisciplinary audiences with varying technical skill levels
+  * Balanced stakeholder interests in both research and teaching settings
+  * Integrated both quantitative (surveys, large-scale text analyses, experiments, meta-analyses) and qualitative (interviews) methods
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "UX Research Intern"
+  company = "Facebook"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Menlo Park, CA"
+  date_start = "2020-06-22"
+  date_end = "2020-09-11"
+  description = """
+  * Conducted in-depth interviews with users, which led to the shipment of several products for the Community Integrity teams
+  * Collaborated with a team of designers, engineers, content strategists and product managers to provide solution-focused insights
+  * Presented research findings to interdisciplinary stakeholders through long-form and short-form reports
+  * Synthesized internal and external research in a literature review with recommendations for product changes
+  """
 
 +++
