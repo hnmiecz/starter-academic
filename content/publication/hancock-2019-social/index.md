@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Social media use and psychological well-being: a meta-analysis'
+title: 'Social media use and psychological well-being: a meta-analysis*'
 subtitle: ''
 summary: 'Through a meta-analysis of 226 articles, we investigate the relationship between social media use and six types of well-being.'
 authors:
