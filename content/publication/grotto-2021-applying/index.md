@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Applying the Principal-Agent Framework to AIMediated Communication: Psychological Implications*'
+title: 'Applying the Principal-Agent Framework to AI-Mediated Communication: Psychological Implications*'
 subtitle: ''
 summary: 'We introduce the concept of principal-agent relationships to AI-Mediated Communication (AI-MC) and discuss its applications across the social sciences, focusing on the psychological implications.'
 authors:
