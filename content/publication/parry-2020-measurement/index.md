@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Measurement Discrepancies Between Logged and Self-Reported Digital Media Use:
-  A Systematic Review and Meta-Analysis'
+  A Systematic Review and Meta-Analysis [Preprint]'
 subtitle: ''
 summary: 'Through a meta-analysis, we investigate the relationship between self-reported and device-logged media use.'
 authors:
