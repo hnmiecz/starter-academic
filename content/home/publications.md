@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Works In Preparation and Under Review"
-subtitle = ""
+title = "Works Accepted and Under Review"
+subtitle = "Works denoted with an * have been accepted as a journal article, conference proceeding or conference paper."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
