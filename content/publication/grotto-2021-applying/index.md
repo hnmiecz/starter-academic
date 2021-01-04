@@ -3,7 +3,7 @@
 
 title: 'Applying the Principal-Agent Framework to AIMediated Communication: Psychological Implications*'
 subtitle: ''
-summary: ''
+summary: 'We introduce the concept of principal-agent relationships to AI-Mediated Communication (AI-MC) and discuss its applications across the social sciences, focusing on the psychological implications.'
 authors:
 - Andrew Grotto
 - Rosanna E Guadagno
