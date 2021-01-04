@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'AI-Mediated Communication: Language Use and Interpersonal Effects in a Referential Communication Task.'
+title: 'AI-Mediated Communication: Language Use and Interpersonal Effects in a Referential Communication Task'
 subtitle: ''
 summary: 'Through a between-subjects experimental design we examine how these processes are influenced when integrating AI language in the form of suggested responses (Google’s smart replies) into a text-based referential communication task.'
 authors:
