@@ -78,3 +78,5 @@ user_groups:
 ---
 
 I am a PhD Candidate in Communication at Stanford University studying media psychology. I use survey-based, experimental and text analysis methods to investigate dyadic and group dynamics, social cognition, and language use in the area of human-machine communication, with a focus on AI. I am also interested in the conceptualization and measurement of digital media use.
+
+Feel free to contact me via email (hnmiecz@stanford.edu) or Twitter (@hnmiecz).
