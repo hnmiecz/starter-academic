@@ -3,7 +3,7 @@
 
 title: 'AI-Mediated Communication: Language Use and Interpersonal Effects in a Referential Communication Task*'
 subtitle: ''
-summary: 'Through a between-subjects experimental design we examine how these processes are influenced when integrating AI language in the form of suggested responses (Google’s smart replies) into a text-based referential communication task. [(PDF)](https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf)'
+summary: 'Through a between-subjects experimental design we examine how these processes are influenced when integrating AI language in the form of suggested responses (Google’s smart replies) into a text-based referential communication task. [(PDF - Accepted Version)](https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf)'
 authors:
 - Hannah Mieczkowski
 - Jeffrey T Hancock
