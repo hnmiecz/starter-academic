@@ -3,7 +3,7 @@
 
 title: 'Artificial intelligence in communication impacts language and social relationships'
 subtitle: ''
-summary: ''
+summary: 'Two randomized experiments (n = 1036) provide evidence that a commercially deployed AI changes how people interact with and perceive one another in pro-social and anti-social ways. We find that even though AI can increase communication efficiency and improve interpersonal perceptions, it risks changing users’ language production and continues to be viewed negatively.[(PDF - arXiv)](https://arxiv.org/pdf/2102.05756.pdf)'
 authors:
 - Jess Hohenstein
 - Dominic DiFranzo
