@@ -4,7 +4,7 @@
 title: 'Priming effects of social media use scales on well-being outcomes: The influence
   of intensity and addiction scales on self-reported depression'
 subtitle: ''
-summary: 'We examine the possibility that different associations between social media and depression may be caused by the survey design itself, not by underlying differences in depression.'
+summary: 'We examine the possibility that different associations between social media and depression may be caused by the survey design itself, not by underlying differences in depression. [(Open Access Link)](https://journals.sagepub.com/doi/full/10.1177/2056305120961784)'
 authors:
 - Hannah Mieczkowski
 - Angela Y Lee
