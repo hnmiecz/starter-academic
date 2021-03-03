@@ -11,7 +11,7 @@ authors:
 - Jeffrey T Hancock
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-10-01'
 lastmod: 2021-01-02T16:46:59-08:00
 featured: true
 draft: false
