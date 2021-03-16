@@ -3,7 +3,7 @@
 
 title: 'Not All AI Are Equal: Exploring the Accessbility of AI-Mediated Communication Technology'
 subtitle: ''
-summary: 'We conducted an online survey of U.S. participants that combines quantitative measures with qualitative questions, revealing how AI-MC adoption is related to tool, device, and internet access; demographic factors such as age and speech characteristics; and AI-MC literacy, a close cousin of digital literacy. We articulate a number of barriers to access, understanding, and usage of AI-MC, which we suggest hinder AI-MC accessibility for user groups traditionally disadvantaged by one-size-fits-all technological tools. '
+summary: 'We conducted an online survey of U.S. participants that combines quantitative measures with qualitative questions, revealing how AI-MC adoption is related to tool, device, and internet access; demographic factors such as age and speech characteristics; and AI-MC literacy, a close cousin of digital literacy.'
 authors:
 - Emma Goldenthal
 - Sunny Xun Liu
