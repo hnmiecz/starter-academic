@@ -3,7 +3,7 @@
 
 title: 'Positioning AI-Mediated Communication in the Field of Human-Machine Communication'
 subtitle: ''
-summary: 'I outline relevant theories of social cognition and presiding ideas surrounding language production and comprehension in conversation. Within these two broad components of communication, similarities and differences between human-machine communication (HMC) and AI-mediated communication (AI-MC) are investigated. [(Workshop Paper PDF)](https://www.hnmiecz.com/media/HMC_HRI_2021.pdf)'
+summary: 'I outline relevant theories of social cognition and presiding ideas surrounding language production and comprehension in conversation. Within these two broad components of communication, similarities and differences between human-machine communication (HMC) and AI-mediated communication (AI-MC) are investigated. [(PDF - Workshop Paper)](https://www.hnmiecz.com/media/HMC_HRI_2021.pdf)'
 authors:
 - Hannah Mieczkowski
 tags: []
