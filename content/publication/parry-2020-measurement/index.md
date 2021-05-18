@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'A Systematic Review and Meta-Analysis of Discrepancies Between Logged and Self-Reported Digital Media Use [Preprint]'
+title: 'A Systematic Review and Meta-Analysis of Discrepancies Between Logged and Self-Reported Digital Media Use'
 subtitle: ''
-summary: 'Through a meta-analysis, we investigate the relationship between self-reported and device-logged media use. [(PsyArXiv Link)](https://psyarxiv.com/f6xvz/)'
+summary: 'Through a meta-analysis, we investigate the relationship between self-reported and device-logged media use. [(Open Access Link)](rdcu.be/ckK81)'
 authors:
-- Douglas A Parry
-- Brittany I Davidson
-- Craig Sewall
-- Jacob T Fisher
+- Douglas A. Parry
+- Brittany I. Davidson
+- Craig J. R. Sewall
+- Jacob T. Fisher
 - Hannah Mieczkowski
-- Daniel Quintana
+- Daniel S. Quintana
 tags: []
 categories: []
 date: -01-01
@@ -36,5 +36,5 @@ publishDate: '2021-01-03T00:46:59.239198Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*PsyArXiv*'
+publication: '*Nature Human Behaviour*'
 ---
