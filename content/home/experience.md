@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New York, NY"
   date_start = "2021-06-21"
-  date_end = "2020-09-10"
+  date_end = "2021-09-10"
   description = """
   """
   
