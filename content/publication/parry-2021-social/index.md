@@ -3,7 +3,7 @@
 
 title: 'Social Media and Well-being: A Methodological Perspective'
 subtitle: ''
-summary: 'We provide a review of five methodological developments poised to provide increased understanding in this domain of social media and well-being. [(PsyArXiv Pre-Print)](https://psyarxiv.com/exhru/)'
+summary: 'We provide a review of five methodological developments poised to provide increased understanding in the domain of social media and well-being: (1) the use of longitudinal and experimental designs; (2) the adoption of behavioural (rather than self-report) measures of SMU; (3) a shift away from aggregate use; (4) the emergence of an idiographic media effects paradigm; and (5) the use of formal modelling and machine learning. [(PsyArXiv Link)](https://psyarxiv.com/exhru/)'
 authors:
 - Douglas A. Parry
 - Jacob T. Fisher
