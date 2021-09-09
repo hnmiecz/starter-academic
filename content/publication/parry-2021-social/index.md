@@ -3,7 +3,7 @@
 
 title: 'Social Media and Well-being: A Methodological Perspective'
 subtitle: ''
-summary: 'Through a meta-analysis, we investigate the relationship between self-reported and device-logged media use. [(Open Access Link)](https://psyarxiv.com/exhru/)'
+summary: 'We provide a review of five methodological developments poised to provide increased understanding in this domain of social media and well-being. [(PsyArXiv Pre-Print)](https://psyarxiv.com/exhru/)'
 authors:
 - Douglas A. Parry
 - Jacob T. Fisher
