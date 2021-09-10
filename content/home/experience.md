@@ -25,6 +25,10 @@ date_format = "Jan 2006"
   date_start = "2021-06-21"
   date_end = "2021-09-10"
   description = """
+  * Led research projects employing methodologies such as discovery interviews, hierarchical task analysis and prototype testing to learn about user experiences in human-AI collaborative environments
+  * Leveraged research insights to provide product recommendations, as well as inform short-term and long-term roadmapping
+  * Collaborated with product managers, designers, engineers and subject matter experts to determine product strategy
+  * Created lo-fi designs in Figma for new automated features in internal Dataminr tools, which were then built out by the engineering team
   """
   
 [[experience]]
@@ -52,7 +56,7 @@ date_format = "Jan 2006"
   description = """
   * Conducted in-depth interviews with users, which led to the shipment of several products for the Community Integrity teams
   * Collaborated with a team of designers, engineers, content strategists and product managers to provide solution-focused insights
-  * Presented research findings to interdisciplinary stakeholders through long-form and short-form reports
+  * Presented research findings to cross-functional stakeholders through long-form and short-form reports
   * Synthesized internal and external research in a literature review with recommendations for product changes
   """
   
