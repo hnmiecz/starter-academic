@@ -34,5 +34,5 @@ publishDate: '2021-01-03T00:46:59.099153Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Cyberpsychology, Behavior and Social Networking'
+publication: '*Cyberpsychology, Behavior and Social Networking*'
 ---
