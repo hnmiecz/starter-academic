@@ -3,7 +3,7 @@
 
 title: 'Not All AI Are Equal: Exploring the Accessbility of AI-Mediated Communication Technology'
 subtitle: ''
-summary: 'We examine a gap between availability and accessibility as it relates to the adoption of AI-Mediated Communication (AI-MC) tools - including voice-assisted communication, language correction, predictive text suggestion, transcription, translation, and personalized language learning tools - by conducting an online survey. [(Open Access Link - available until 10/01/21)](https://authors.elsevier.com/a/1dZSh2f%7EUWF2hd)'
+summary: 'We examine a gap between availability and accessibility as it relates to the adoption of AI-Mediated Communication (AI-MC) tools - including voice-assisted communication, language correction, predictive text suggestion, transcription, translation, and personalized language learning tools - by conducting an online survey. [(Link)](https://doi.org/10.1016/j.chb.2021.106975)'
 authors:
 - Emma Goldenthal
 - Sunny Xun Liu
