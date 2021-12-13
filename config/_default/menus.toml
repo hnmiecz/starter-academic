@@ -15,13 +15,13 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 20
 
-[[main]]
-  name = "Accepted/Under Review"
-  url = "#publications"
-  weight = 30
+# [[main]]
+#  name = "Other Publications"
+#  url = "#publications"
+#  weight = 30
  
 [[main]]
   name = "Research Experience"
