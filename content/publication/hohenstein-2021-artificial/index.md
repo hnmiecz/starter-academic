@@ -18,7 +18,7 @@ tags: []
 categories: []
 date: '2021-01-01'
 lastmod: 2021-01-02T16:46:59-08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
