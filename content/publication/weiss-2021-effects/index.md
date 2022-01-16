@@ -3,7 +3,7 @@
 
 title: 'Effects of AI Use on Interpersonal Perceptions of Job Applicants'
 subtitle: ''
-summary: 'To better understand the impact of AI in employment-related contexts, we conducted two experiments (the first being pre-registered) investigating how the use of AI by applicants influences their job opportunities.'
+summary: 'To better understand the impact of AI in employment-related contexts, we conducted two experiments (the first being pre-registered) investigating how the use of AI by applicants influences their job opportunities. [(Link)](https://doi.org/10.1089/cyber.2020.0863)'
 authors:
 - Daphne Weiss
 - Sunny Xun Liu
@@ -34,5 +34,5 @@ publishDate: '2021-01-03T00:46:59.099153Z'
 publication_types:
 - '2'
 abstract: ''
-publication: 'Accepted at *Cyberpsychology, Behavior and Social Networking*'
+publication: '*Cyberpsychology, Behavior and Social Networking*'
 ---
