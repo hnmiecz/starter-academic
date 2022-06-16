@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study how social technologies impact the way we think about and talk to each other using survey-based, experimental and text analysis methods. 
+bio: 
 
 interests:
 - Artificial Intelligence in Social Life
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Communication
     institution: Stanford University
-    year: expected 2022
+    year: 2022
   - course: MA in Communication
     institution: Stanford University
     year: 2020
@@ -77,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-I am a 5th year PhD Candidate in Communication at Stanford University studying media psychology. My research examines how people perceive AI systems in interpersonal communication, and how these perceptions influence our language and the ways we think about ourselves and others. I am also interested in the conceptualization and measurement of digital media use.
+I am a social scientist who uses mixed methods to study how people perceive AI systems, and how these perceptions influence our language and the ways we think about ourselves and others.
 
-Feel free to contact me via email (hnmiecz@stanford.edu) or Twitter (@hnmiecz).
+Feel free to contact me via email (hnmieczkowski@gmail.com) or Twitter (@hnmiecz).
