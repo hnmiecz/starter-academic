@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Hannah Mieczkowski
+title: Hannah Mieczkowski, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Candidate in Communication
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
