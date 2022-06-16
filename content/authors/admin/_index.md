@@ -17,11 +17,11 @@ organizations:
 bio: 
 
 interests:
-- Artificial Intelligence in Social Life
-- Human Machine Communication
-- Language Production and Comprehension
+- Social Impacts of AI 
+- Human-Machine Communication
+- Language Change
 - Interpersonal Perception
-- Relationships between Social Media and Well-being
+- Measurement of Social Media Use
 
 education:
   courses:
