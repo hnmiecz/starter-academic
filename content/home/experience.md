@@ -39,11 +39,12 @@ date_format = "Jan 2006"
   date_start = "2017-09-15"
   date_end = ""
   description = """
+  * Integrated both quantitative (surveys, text analysis, experiments, meta-analyses) and qualitative (think-aloud studies, interviews) methods
+  * Led teams of researchers in all stages of the research process, including problem scoping, data collection and analysis, and publication
   * Managed multiple projects, working with senior scholars and mentoring undergraduate research assistants
-  * Led teams of researchers in research question development, data collection and analysis, and publication
   * Presented research to interdisciplinary audiences with varying technical skill levels
   * Balanced stakeholder interests in both research and teaching settings
-  * Integrated both quantitative (surveys, large-scale text analyses, experiments, meta-analyses) and qualitative (interviews) methods
+  * Subject matter expertise in investigating the connections between people’s perceptions, emotions and behaviors towards social technologies
   """
 
 [[experience]]
@@ -83,6 +84,19 @@ date_format = "Jan 2006"
   description = """
    * Conducted large-scale literature reviews on motivations and consequences of using social media, as well as differences in perceptions of well-being across cultures.
    * Synthesized findings in two reviews of these topics and presented work and product recommendations to relevant stakeholders.
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Communication Lab, Stony Brook University"
+  company_url = ""
+  location = "Stony Brook, NY"
+  date_start = "2014-02-01"
+  date_end = "2017-05-19"
+  description = """
+   * Independently designed an experiment to examine the effect of diminutive nicknames on impressions of status, gender characteristics, warmth and competence.
+   * Presented evidence-based work at the university's research symposium.
+   * Assisted with interviews and operated eye-tracking instruments in studies focusing on deception.
   """
 
 +++
