@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Stanford, CA"
   date_start = "2017-09-15"
-  date_end = ""
+  date_end = "2022-09-01"
   description = """
   * Integrated both quantitative (surveys, text analysis, experiments, meta-analyses) and qualitative (think-aloud studies, interviews) methods
   * Led teams of researchers in all stages of the research process, including problem scoping, data collection and analysis, and publication
