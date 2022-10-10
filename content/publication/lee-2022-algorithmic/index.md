@@ -3,12 +3,12 @@
 
 title: 'The Algorithmic Crystal: Conceptualizing the Self Through Algorithmic Personalization on TikTok'
 subtitle: ''
-summary: 'We propose a novel conceptual model to understand how people think about and interact with personalized algorithmic systems [(PDF - Accepted Version)](https://drive.google.com/file/d/1f3MpDVI9YG-_TylwE1d8bvOz0Wy0QCZn/view)'
+summary: 'We propose a novel conceptual model to understand how people think about and interact with personalized algorithmic systems. [(PDF - Accepted Version)](https://drive.google.com/file/d/1f3MpDVI9YG-_TylwE1d8bvOz0Wy0QCZn/view)'
 authors:
-- Angela Y. Lee
+- Angela Y Lee
 - Hannah Mieczkowski
-- Nicole B. Ellison
-- Jeffrey T. Hancock
+- Nicole B Ellison
+- Jeffrey T Hancock
 tags: []
 categories: []
 date: 2022-06-01
