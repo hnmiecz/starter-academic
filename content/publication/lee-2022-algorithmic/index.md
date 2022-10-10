@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'A Systematic Review and Meta-Analysis of Discrepancies Between Logged and Self-Reported Digital Media Use'
+title: 'The Algorithmic Crystal: Conceptualizing the Self Through Algorithmic Personalization on TikTok'
 subtitle: ''
 summary: 'We propose a novel conceptual model to understand how people think about and interact with personalized algorithmic systems [(PDF - Accepted Version)](https://drive.google.com/file/d/1f3MpDVI9YG-_TylwE1d8bvOz0Wy0QCZn/view)'
 authors:
