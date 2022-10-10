@@ -77,8 +77,8 @@ user_groups:
 - Visitors
 ---
 
-I am a mixed-methods social scientist with nearly a decade of research experience, including four years of UX/HCI research in the tech industry. In June 2022 I graduated with my PhD from Stanford University.
+I am a mixed-methods social scientist with nearly a decade of research experience, including four years of UX/HCI research in the tech industry. In June 2022 I graduated with my PhD from Stanford University. I currently work as a Senior UX Researcher at ZS Associates.
 
-I use both quantitative and qualitative methods - such as surveys, experiments, think-aloud studies, interviews, and text analysis. My subject matter expertise is in investigating the connections between people's perceptions, emotions and behaviors towards social technologies. In particular, my dissertation examined how people perceive AI systems, and how these perceptions influence our language, behaviors, and the ways we think about ourselves and others.
+I use both quantitative and qualitative methods - such as surveys, experiments, think-aloud studies, interviews, and text analysis. My subject matter expertise is in investigating the connections between people's perceptions, emotions and behaviors towards social technologies.
 
 Feel free to contact me via email (hnmieczkowski@gmail.com) or Twitter (@hnmiecz).
